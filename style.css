@@ -35,3 +35,10 @@ header {
     border-radius: 10px;
     margin-bottom: 10px;
 }
+
+footer {
+    text-align: center;
+    background: #333;
+    color: white;
+    padding: 12px;
+}
